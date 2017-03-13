@@ -1,9 +1,9 @@
-  1 set shortmess+=I                                                            
-  2 set number
-  3 syntax enable
-  4 set cursorline
-  5 set ruler
-  6 set cmdheight=2
-  7 set backspace=eol,start,indent
-  8 set whichwrap+=<,>,h,l
-  9 set ignorecase
+set shortmess+=I                                                            
+set number
+syntax enable
+set cursorline
+set ruler
+set cmdheight=2
+set backspace=eol,start,indent
+set whichwrap+=<,>,h,l
+set ignorecase
